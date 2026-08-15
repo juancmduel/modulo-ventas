@@ -42,6 +42,8 @@ Y entrar a `http://localhost:8000/index.html`.
 | 2026-08-15 | Juan Duel | `64d2f80` | Se agrega la página de Empleados |
 | 2026-08-15 | Juan Duel | `966a15d` | Se enlazan las páginas nuevas en el menú y la navegación |
 | 2026-08-15 | Juan Duel | `5790302` | Se agrega el producto "Audífonos" al listado de Productos |
+| 2026-08-15 | Juan Duel | `b584694` | Se agrega README con estructura del proyecto e historial de cambios |
+| 2026-08-15 | Juan Duel | `4ac520d` | Se agrega campo "Método de Pago" y opción de Audífonos al formulario de Ventas |
 
 > Este historial se arma a partir de `git log`. Para ver el detalle real de quién
 > hizo cada commit (con fecha y hora exactas), corre:
